@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'll upload all code in the next 2 days. Cheers
 
 <!--
 **misztof2/misztof2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
