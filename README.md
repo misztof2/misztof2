@@ -1,16 +1,32 @@
-## Hi there 👋 I'll upload all code in the next 2 days. Cheers
+## Howdy👋
+AI & Robotics Engineering Student | Builder of AI-driven systems
 
-<!--
-**misztof2/misztof2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Automatic Control and Robotics student focused on integrating machine learning into real-world systems — particularly robotics, embedded platforms, and human–machine interaction.
 
-Here are some ideas to get you started:
+I work daily with AI as an engineering tool, not a black box — designing, integrating and evaluating systems under real constraints (latency, hardware, robustness).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I do
+- Build AI-powered systems (robotics, embedded, interaction)
+- Integrate machine learning models via APIs into working products
+- Design system-level architectures (not just models)
+- Develop real-world prototypes (Raspberry Pi, hardware + software)
+
+## 🚀 Projects
+- AI-controlled interactive robot (voice interaction, embedded AI)
+- FarmIt – AgriTech startup (co-founder, system architecture & product direction)
+- AI-based market analysis concept (2nd place – international hackathon)
+- _______________________
+
+## 🧠 Interests
+- AI as an engineering discipline
+- Autonomous systems & decision-making
+- Human–machine interaction
+- Neuroscience-inspired AI systems
+- -neuromorphic algorithms 
+
+## 🌍 Background
+- Based in Poznań, Poland
+- Experience in international teams (EUNICE programme, hackathons)
+
+## 📈 Long-term focus
+Building next-generation AI architectures inspired by neuroscience and physical systems.
