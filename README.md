@@ -15,6 +15,8 @@ I work daily with AI as an engineering tool, not a black box - designing, integr
 - AI-controlled interactive robot (voice interaction, embedded AI)
 - FarmIt – AgriTech startup (co-founder, system architecture & product direction)
 - AI-based market analysis concept (2nd place – international hackathon)
+- SCM
+- Fallout Pip-boy
 - _______________________
 
 ## 🧠 Interests
