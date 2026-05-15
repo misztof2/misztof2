@@ -1,9 +1,9 @@
 ## Howdy👋
 AI & Robotics Engineering Student | Builder of AI-driven systems
 
-I am an Automatic Control and Robotics student focused on integrating machine learning into real-world systems — particularly robotics, embedded platforms, and human–machine interaction.
+I am an Automatic Control and Robotics student focused on integrating machine learning into real-world systems - particularly robotics, embedded platforms, and human–machine interaction.
 
-I work daily with AI as an engineering tool, not a black box — designing, integrating and evaluating systems under real constraints (latency, hardware, robustness).
+I work daily with AI as an engineering tool, not a black box - designing, integrating and evaluating systems under real constraints (latency, hardware, robustness).
 
 ## 🔧 What I do
 - Build AI-powered systems (robotics, embedded, interaction)
